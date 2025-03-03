@@ -12,7 +12,7 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-## I developed real time chat application and named it as CHATWAVE, a real-time one-on-one chat application that enables seamless communication between users. Built using modern web technologies, ChatWave ensures instant message delivery, a responsive interface, and an intuitive user experience.
+##I developed real time chat application and named it as CHATWAVE, a real-time one-on-one chat application that enables seamless communication between users. Built using modern web technologies, ChatWave ensures instant message delivery, a responsive interface, and an intuitive user experience.
 
 At the core of ChatWave’s real-time functionality is Socket.IO, a JavaScript library that facilitates bidirectional communication between clients and the server using WebSockets. This ensures low-latency message transmission, making interactions feel instantaneous. The backend is powered by Node.js, which provides an event-driven, non-blocking architecture, making it well-suited for real-time applications. Additionally, I utilized Express.js, a lightweight framework for Node.js, to handle server routes and manage client-server interactions efficiently.
 
@@ -27,3 +27,9 @@ Robust error handling mechanisms are integrated into ChatWave to manage various 
 From a security perspective, while ChatWave currently focuses on real-time functionality, additional features such as user authentication, end-to-end encryption, and database integration for message storage can be incorporated to enhance privacy and reliability.
 
 ChatWave is designed to provide an efficient and engaging chatting experience, ensuring minimal delays and a user-friendly interface. The project highlights the power of Socket.IO, Node.js, Express.js, and modern frontend technologies in building scalable and interactive real-time applications.
+
+##OUTPUT
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/e13878a9-67d5-4d66-92cf-1d93b10cd028" />
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/3faa5983-def3-4df9-8f81-d5a71db8a6b5" />
