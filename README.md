@@ -30,6 +30,6 @@ ChatWave is designed to provide an efficient and engaging chatting experience, e
 
 ##OUTPUT
 
-<img width="959" alt="Image" src="https://github.com/user-attachments/assets/e13878a9-67d5-4d66-92cf-1d93b10cd028" />
-
 <img width="959" alt="Image" src="https://github.com/user-attachments/assets/3faa5983-def3-4df9-8f81-d5a71db8a6b5" />
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/e13878a9-67d5-4d66-92cf-1d93b10cd028" />
