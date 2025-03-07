@@ -1,4 +1,16 @@
+# REAL-TIME-CHAT-APPLICATION
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: LAKKAKULA JAYA SANKAR
+
+INTERN ID: CT6WOJR
+
+DOMAIN: FRONTEND WEB DEVELOPMENT
+
+DURATION: 6 WEEKS
+
+MENTOR: NEELA SANTOSH
 
 ChatWave – A Real-Time One-on-One Chat Application
 I developed chat application and named it as ChatWave, a real-time one-on-one chat application that enables seamless communication between users. Built using modern web technologies, ChatWave ensures instant message delivery, a responsive interface, and an intuitive user experience.
