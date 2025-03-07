@@ -28,3 +28,9 @@ Robust error handling mechanisms are integrated into ChatWave to manage various 
 From a security perspective, while ChatWave currently focuses on real-time functionality, additional features such as user authentication, end-to-end encryption, and database integration for message storage can be incorporated to enhance privacy and reliability.
 
 ChatWave is designed to provide an efficient and engaging chatting experience, ensuring minimal delays and a user-friendly interface. The project highlights the power of Socket.IO, Node.js, Express.js, and modern frontend technologies in building scalable and interactive real-time applications.
+
+OUTPUT
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/2bac3ec2-296c-47e9-a1d2-1b56c96ba368" />
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/98747f26-a1bb-4c59-acf3-ee20c63d1270" />
